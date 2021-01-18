@@ -1,0 +1,13 @@
+navbar-nav{
+   position: sticky;
+    top: 0;
+    z-index: 99999; 
+
+}
+input {
+    background: grey;
+}
+body{
+    text-align: center;
+    color: lightblue;
+}
